@@ -31,7 +31,7 @@ h1 {
 }
 
 h2 {
-  font-family: Raleway;
+  font-family: "Raleway";
   color: #0D2C40;
   letter-spacing: 1px;
   font-weight: 600;
@@ -83,7 +83,7 @@ footer {
 
 .message {
   float: right;
-  font-family: Raleway;
+  font-family: "Raleway";
 }
 
 .clearfix:after {
